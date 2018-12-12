@@ -1,0 +1,11 @@
+C:\Users\RJH\Desktop\tech4ed\login\login\bin\Debug\login.exe.config
+C:\Users\RJH\Desktop\tech4ed\login\login\obj\Debug\login.exe
+C:\Users\RJH\Desktop\tech4ed\login\login\obj\Debug\login.xml
+C:\Users\RJH\Desktop\tech4ed\login\login\obj\Debug\login.pdb
+C:\Users\RJH\Desktop\tech4ed\login\login\bin\Debug\login.exe
+C:\Users\RJH\Desktop\tech4ed\login\login\bin\Debug\login.pdb
+C:\Users\RJH\Desktop\tech4ed\login\login\bin\Debug\login.xml
+C:\Users\RJH\Desktop\tech4ed\login\login\obj\Debug\login.Form1.resources
+C:\Users\RJH\Desktop\tech4ed\login\login\obj\Debug\login.Resources.resources
+C:\Users\RJH\Desktop\tech4ed\login\login\obj\Debug\login.vbproj.GenerateResource.Cache
+C:\Users\RJH\Desktop\tech4ed\login\login\obj\Debug\login.dashboard.resources
